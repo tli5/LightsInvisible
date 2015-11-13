@@ -1,0 +1,73 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Mobile Intel(R) HD Graphics (ID=0x126)
+    Vendor:   Intel
+    VRAM:     1072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.283 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Programs\Unity\Projects\Roll_A_Ball_tutorial\Build\roller_game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a6c -> priority: 1 
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+collision:pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
