@@ -1,0 +1,161 @@
+Mono path[0] = 'D:/Programs/Unity/Projects/Boat/pcbuild_Data/Managed'
+Mono path[1] = 'D:/Programs/Unity/Projects/Boat/pcbuild_Data/Mono'
+Mono config path = 'D:/Programs/Unity/Projects/Boat/pcbuild_Data/Mono/etc'
+PlayerConnection initialized from D:/Programs/Unity/Projects/Boat/pcbuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55043
+Multi-casting "[IP] 129.161.69.154 [Port] 55043 [Flags] 2 [Guid] 2692455336 [EditorId] 503125154 [Version] 1048832 [Id] WindowsPlayer(VOSTRO) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [129.161.69.154:55043]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Mobile Intel(R) HD Graphics (ID=0x126)
+    Vendor:   Intel
+    VRAM:     1072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\InputSimulator.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\InputSimulator.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.070 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Programs\Unity\Projects\Boat\pcbuild_Data\Managed\System.dll (this message is harmless)
+Setting BehaviourComponentFactory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.ComponentFactoryStarterBehaviour:SetBehaviourComponentFactory() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs:47)
+Vuforia.ComponentFactoryStarterBehaviour:Awake() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs:37)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:404)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:409)
+Vuforia.VuforiaBehaviour:Awake() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\VuforiaBehaviour.cs:31)
+ 
+(Filename: D:/Programs/Unity/Projects/Boat/Assets/Vuforia/Scripts/Internal/ComponentFactoryStarterBehaviour.cs Line: 47)
+
+Vuforia initialization successful
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Could not initialize the tracker.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Vuforia.TrackerManagerImpl:InitTracker()
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Could not initialize the tracker.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Vuforia.TrackerManagerImpl:InitTracker()
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Creating a Mono Camera Configuration (Check for reflection)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaAbstractBehaviour:ConfigureView()
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Dataset trackers could not be loaded and cannot be activated.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Vuforia.DatabaseLoadAbstractBehaviour:LoadDatasets()
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartVuforia
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaAbstractBehaviour:StartVuforia(Boolean, Boolean)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Trackable motion-tracker lost
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.DefaultTrackableEventHandler:OnTrackingLost() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:107)
+Vuforia.DefaultTrackableEventHandler:OnTrackableStateChanged(Status, Status) (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:58)
+Vuforia.TrackableBehaviour:RegisterTrackableEventHandler(ITrackableEventHandler)
+Vuforia.DefaultTrackableEventHandler:Start() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:32)
+ 
+(Filename: D:/Programs/Unity/Projects/Boat/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs Line: 107)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2964 -> priority: 1 
+Boat Gaming Server Initializied
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+networkmanager:OnServerInitialized() (at D:\Programs\Unity\Projects\Boat\Assets\scripts\networkmanager.cs:20)
+UnityEngine.Network:InitializeServer(Int32, Int32, Boolean)
+networkmanager:StartServer() (at D:\Programs\Unity\Projects\Boat\Assets\scripts\networkmanager.cs:14)
+networkmanager:OnGUI() (at D:\Programs\Unity\Projects\Boat\Assets\scripts\networkmanager.cs:29)
+ 
+(Filename: D:/Programs/Unity/Projects/Boat/Assets/scripts/networkmanager.cs Line: 20)
+
+StopVuforia
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaAbstractBehaviour:StopVuforia()
+Vuforia.VuforiaAbstractBehaviour:OnDisable()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Trackable motion-tracker lost
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.DefaultTrackableEventHandler:OnTrackingLost() (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:107)
+Vuforia.DefaultTrackableEventHandler:OnTrackableStateChanged(Status, Status) (at D:\Programs\Unity\Projects\Boat\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:58)
+Vuforia.TrackableBehaviour:OnDisable()
+ 
+(Filename: D:/Programs/Unity/Projects/Boat/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs Line: 107)
+
